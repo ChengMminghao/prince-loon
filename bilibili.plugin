@@ -1,5 +1,5 @@
 #!name=哔哩哔哩
-#!desc=屏蔽广告，界面优化，解锁画质
+#!desc=过滤Bilibili广告，精简多余功能
 #!author=ddgksf2013
 
 [Rewrite]
